@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="/2026/10/31/hello-world/"/>
+    <url>/2026/10/31/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的个人博客，这是第一篇文章。</p><h2 id="这个博客是怎么搭起来的"><a href="#这个博客是怎么搭起来的" class="headerlink" title="这个博客是怎么搭起来的"></a>这个博客是怎么搭起来的</h2><p>本站使用 <a href="https://hexo.io/">Hexo</a> 生成静态页面，主题是 <a href="https://hexo.fluid-dev.com/">Fluid</a>，托管在 GitHub Pages 上。</p><h2 id="写文章的常用命令"><a href="#写文章的常用命令" class="headerlink" title="写文章的常用命令"></a>写文章的常用命令</h2><p>新建一篇文章：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npx hexo new <span class="hljs-string">&quot;文章标题&quot;</span><br></code></pre></td></tr></table></figure><p>本地预览：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npx hexo server<br></code></pre></td></tr></table></figure><p>生成并部署：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">npx hexo clean<br>npx hexo generate<br>npx hexo deploy<br></code></pre></td></tr></table></figure><h2 id="接下来"><a href="#接下来" class="headerlink" title="接下来"></a>接下来</h2><ul><li>更换头像与站点图标</li><li>配置评论、访问统计</li><li>绑定自己的域名</li></ul><p>从今天开始，慢慢记录。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
